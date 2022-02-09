@@ -1,3 +1,73 @@
 <resources>
     <string name="app_name">AutoComplete</string>
+        <string-array name="Państwa">
+            <item>Chińska Republika Ludowa</item>
+            <item>Indie</item>
+            <item>Stany Zjednoczone</item>
+            <item>Indonezja</item>
+            <item>Brazylia</item>
+            <item>Pakistan</item>
+            <item>Nigeria</item>
+            <item>Bangladesz</item>
+            <item>Rosja</item>
+            <item>Japonia</item>
+            <item>Meksyk</item>
+            <item>Etiopia</item>
+            <item>Filipiny</item>
+            <item>Egipt</item>
+            <item>Wietnam</item>
+            <item>Demokratyczna Republika Konga</item>
+            <item>Iran</item>
+            <item>Turcja</item>
+            <item>Niemcy</item>
+            <item>Tajlandia</item>
+            <item>Francja</item>
+            <item>Wielka Brytania</item>
+            <item>Włochy</item>
+            <item>Mjanma</item>
+            <item>Tanzania</item>
+            <item>Południowa Afryka</item>
+            <item>Korea Południowa</item>
+            <item>Hiszpania</item>
+            <item>Kenia</item>
+            <item>Kolumbia</item>
+            <item>Argentyna</item>
+            <item>Sudan</item>
+            <item>Algieria</item>
+            <item>Uganda</item>
+            <item>Irak</item>
+            <item>Polska</item>
+            <item>Ukraina</item>
+            <item>Kanada</item>
+            <item>Afganistan</item>
+            <item>Maroko</item>
+            <item>Arabia Saudyjska</item>
+            <item>Malezja</item>
+            <item>Wenezuela</item>
+            <item>Peru</item>
+            <item>Angola</item>
+            <item>Uzbekistan</item>
+            <item>Nepal</item>
+            <item>Jemen</item>
+            <item>Ghana</item>
+            <item>Mozambik</item>
+            <item>Wybrzeże Kości Słoniowej</item>
+            <item>Madagaskar</item>
+            <item>Kamerun</item>
+            <item>Korea Północna</item>
+            <item>Republika Chińska</item>
+            <item>Australia</item>
+            <item>Sri Lanka</item>
+            <item>Rumunia</item>
+            <item>Niger</item>
+            <item>Malawi</item>
+            <item>Burkina Faso</item>
+            <item>Syria</item>
+            <item>Kazachstan</item>
+            <item>Mali</item>
+            <item>Chile</item>
+            <item>Holandia</item>
+            <item>Gwatemala</item>
+        </string-array>
+
 </resources>
