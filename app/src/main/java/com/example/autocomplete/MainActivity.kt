@@ -13,11 +13,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val autotextView = findViewById<AutoCompleteTextView>(R.id.autoComplete)
-        val Jezyki = resources.getStringArray(R.array.Państwa)
+        val Panstwa = resources.getStringArray(R.array.Państwa)
 
         val adapter = ArrayAdapter(
             this,
-            android.R.layout.simple_list_item_1, Jezyki
+            android.R.layout.simple_list_item_1, Panstwa
         )
         autotextView.threshold = 0
         autotextView.setAdapter(adapter)
