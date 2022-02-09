@@ -1,73 +1,87 @@
 <resources>
     <string name="app_name">AutoComplete</string>
         <string-array name="Państwa">
-            <item>Chińska Republika Ludowa</item>
-            <item>Indie</item>
-            <item>Stany Zjednoczone</item>
-            <item>Indonezja</item>
-            <item>Brazylia</item>
-            <item>Pakistan</item>
-            <item>Nigeria</item>
-            <item>Bangladesz</item>
-            <item>Rosja</item>
-            <item>Japonia</item>
-            <item>Meksyk</item>
-            <item>Etiopia</item>
-            <item>Filipiny</item>
-            <item>Egipt</item>
-            <item>Wietnam</item>
-            <item>Demokratyczna Republika Konga</item>
-            <item>Iran</item>
-            <item>Turcja</item>
-            <item>Niemcy</item>
-            <item>Tajlandia</item>
-            <item>Francja</item>
-            <item>Wielka Brytania</item>
-            <item>Włochy</item>
-            <item>Mjanma</item>
-            <item>Tanzania</item>
-            <item>Południowa Afryka</item>
-            <item>Korea Południowa</item>
-            <item>Hiszpania</item>
-            <item>Kenia</item>
-            <item>Kolumbia</item>
-            <item>Argentyna</item>
-            <item>Sudan</item>
-            <item>Algieria</item>
-            <item>Uganda</item>
-            <item>Irak</item>
-            <item>Polska</item>
-            <item>Ukraina</item>
-            <item>Kanada</item>
-            <item>Afganistan</item>
-            <item>Maroko</item>
-            <item>Arabia Saudyjska</item>
-            <item>Malezja</item>
-            <item>Wenezuela</item>
-            <item>Peru</item>
-            <item>Angola</item>
-            <item>Uzbekistan</item>
-            <item>Nepal</item>
-            <item>Jemen</item>
-            <item>Ghana</item>
-            <item>Mozambik</item>
-            <item>Wybrzeże Kości Słoniowej</item>
-            <item>Madagaskar</item>
-            <item>Kamerun</item>
-            <item>Korea Północna</item>
-            <item>Republika Chińska</item>
-            <item>Australia</item>
-            <item>Sri Lanka</item>
-            <item>Rumunia</item>
-            <item>Niger</item>
-            <item>Malawi</item>
-            <item>Burkina Faso</item>
-            <item>Syria</item>
-            <item>Kazachstan</item>
-            <item>Mali</item>
-            <item>Chile</item>
-            <item>Holandia</item>
-            <item>Gwatemala</item>
+            <item>Chińska Republika Ludowa ok. 1.4 miliard</item>
+            <item>Indie 1.3 miliard</item>
+            <item>Stany Zjednoczone ok. 329 milion</item>
+            <item>Indonezja ok. 262 milion</item>
+            <item>Brazylia ok. 208 milion</item>
+            <item>Pakistan ok. 207 milion</item>
+            <item>Nigeria ok. 203 milion</item>
+            <item>Bangladesz ok. 159 milion</item>
+            <item>Rosja ok. 142 milion</item>
+            <item>Japonia ok. 126 milion</item>
+            <item>Meksyk ok. 125 milion</item>
+            <item>Etiopia ok. 108 milion</item>
+            <item>Filipiny ok. 105 milion</item>
+            <item>Egipt ok. 99 milion</item>
+            <item>Wietnam ok. 97 milion</item>
+            <item>Demokratyczna Republika Konga ok. 85 milion</item>
+            <item>Iran ok. 83 milion</item>
+            <item>Turcja ok. 81 milion</item>
+            <item>Niemcy ok. 80 milion</item>
+            <item>Tajlandia  ok. 68 milion</item>
+            <item>Francja ok. 67 milion</item>
+            <item>Wielka Brytania ok. 65 milion</item>
+            <item>Włochy ok. 62 milion</item>
+            <item>Mjanma ok. 55.6 milion</item>
+            <item>Tanzania ok. 55.4 milion</item>
+            <item>Południowa Afryka ok. 55.3 milion</item>
+            <item>Korea Południowa ok. 51 milion</item>
+            <item>Hiszpania ok. 49.3 milion</item>
+            <item>Kenia ok. 48.3 milion</item>
+            <item>Kolumbia ok. 48.1 milion</item>
+            <item>Argentyna ok. 44 milion</item>
+            <item>Sudan ok. 43 milion</item>
+            <item>Algieria ok. 41 milion</item>
+            <item>Uganda ok. 40.8 milion</item>
+            <item>Irak ok. 40.1 milion</item>
+            <item>Polska ok. 38 milion</item>
+            <item>Ukraina ok. 37 milion</item>
+            <item>Kanada ok. 35 milion</item>
+            <item>Afganistan ok. 34.9 milion</item>
+            <item>Maroko ok. 34.3 milion</item>
+            <item>Arabia Saudyjska ok. 33 milion</item>
+            <item>Malezja ok. 31.8 milion</item>
+            <item>Wenezuela ok. 31.6 milion</item>
+            <item>Peru ok. 31.3 milion</item>
+            <item>Angola ok. 30.3 milion</item>
+            <item>Uzbekistan ok. 30 milion</item>
+            <item>Nepal ok. 29 milion</item>
+            <item>Jemen ok. 28.6 milion</item>
+            <item>Ghana ok. 28.1 milion</item>
+            <item>Mozambik ok. 27.2 milion</item>
+            <item>Wybrzeże Kości Słoniowej ok. 26 milion</item>
+            <item>Madagaskar ok. 25.68 milion</item>
+            <item>Kamerun ok. 25.64 milion</item>
+            <item>Korea Północna ok. 25.3 milion</item>
+            <item>Republika Chińska ok. 23.5 milion</item>
+            <item>Australia ok. 23.4 milion</item>
+            <item>Sri Lanka ok. 22 milion</item>
+            <item>Rumunia ok. 21 milion</item>
+            <item>Niger ok. 19.86 milion</item>
+            <item>Malawi ok. 19.84 milion</item>
+            <item>Burkina Faso ok. 19.7 milion</item>
+            <item>Syria ok. 19.4 milion</item>
+            <item>Kazachstan ok. 18.7 milion</item>
+            <item>Chile ok. 17.9 milion</item>
+            <item>Mali ok. 17.4 milion</item>
+            <item>Holandia ok. 17.1 milion</item>
+            <item>Gwatemala ok. 16.5 milion</item>
+            <item>Ekwador ok. 16.49 milion</item>
+            <item>Kambodza ok. 16.449 milion</item>
+            <item>Zambia ok. 16.445 milion</item>
+            <item>Czad ok. 15.4 milion</item>
+            <item>Senegal ok. 15 milion</item>
+            <item>Zimbabwe ok. 14 milion</item>
+            <item>Rwanda ok. 12 milion</item>
+            <item>Gwinea ok. 11.85 milion</item>
+            <item>Burundi ok. 11.84 milion</item>
+            <item>Belgia ok. 11.57 milion</item>
+            <item>Tunezja ok. 11.51 milion</item>
+            <item>Benin ok. 11.34 milion</item>
+            <item>Boliwia ok. 11.3 milion</item>
+
         </string-array>
 
 </resources>
